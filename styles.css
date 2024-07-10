@@ -1,0 +1,148 @@
+/* CSS FOR INDEX.HTML PAGE */
+
+
+body {
+    background-color: #C382F1;
+    color: #b0f182;
+    font-family: Tahoma, Trebuchet MS, Garamond;
+
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 4px 4px 4px #280144;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+a {
+    color: #b0f182;
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #59FF00;
+
+}
+
+/* CSS FOR SEAFOODRISOTTO.HTML PAGE */
+
+.seafood-page {
+    background: #b0f182;
+    color: #C382F1;
+    font-family: Tahoma, Trebuchet MS, Garamond;
+    font-size: 20px;
+}
+
+.seafood-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500;
+}
+
+.seafood-description,
+.seafood-ingredient, 
+.seafood-steps {
+    text-align: left;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #280144;
+}
+
+.seafood-list {
+    text-align: left;
+    list-style-type: circle;
+}
+
+.back-link {
+    color: #C382F1;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+    color: #AD00FA;
+}
+
+/* CSS FOR MAPLESALMON.HTML PAGE */
+
+.salmon-page {
+    background-color: #ffe2be;
+    color: #CBABE5;
+    font-family: Tahoma, Trebuchet MS, Garamond;
+}
+
+.salmon-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0%;
+}
+
+.salmon-description,
+.salmon-ingredients,
+.salmon-steps {
+    text-align: left;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #280144;
+}
+
+.salmon-list {
+    text-align: left;
+    list-style-type: disc;
+}
+
+.salmon-return {
+    color: 	#beffe2;
+}
+
+.salmon-return:hover {
+    color: #AD00FA;
+}
+
+/* CSS FOR CLAMCHOWDER.HTML PAGE */
+
+.clam-page {
+    background-color: #CBABE5;
+    color: #ffe2be;
+    font-family: Tahoma, Trebuchet MS, Garamond;
+}
+
+.clam-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0%;
+}
+
+.clam-description,
+.clam-ingredients,
+.clam-steps {
+    text-align: left;
+    font-size: 30px;
+    text-shadow: 2px 2px 2px #280144;
+}
+
+.clam-list {
+    text-align: left;
+
+}
+
+.clam-return {
+    color: #72ffc0;
+}
